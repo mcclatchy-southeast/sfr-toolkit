@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bootstrap 4 Github Pages
-email: ""
+title: SFR toolkit
+email: "mtdukes@newsobserver.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  A Bootstrap 4 start up project for Jekyll and Github Pages
+  A toolkit for journalists investigating the single-family rental industry.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-#github_username:  jekyll
+github_username:  mcclatchy-southeast
 
-repository: "nicolas-van/bootstrap-4-github-pages"
+repository: "mcclatchy-southeast.github.io/sfr-toolkit/"
 
 # Build settings
 plugins:
@@ -31,6 +31,11 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
+  - _pages/contact.md
+
+# A list of directories to include
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
