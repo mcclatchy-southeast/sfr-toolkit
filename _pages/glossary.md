@@ -1,45 +1,23 @@
 ---
 layout: page
-title: R glossary
+title: SFR glossary
 ---
 
-A collection of frequently used terms in the R statistical programming language.
+A collection of frequently used terms in the single-family rental industry.
 
-#### assignment function
-The sequence of characters `<-` used to assign values to an object.
+#### Asset-backed securities
+These are investments that promise profits from revenue that’s on the way. That can be expected payments on a loan or lease.
 
-#### comment
-A line in your script beginning with `#` that won't be executed. Used to 
+#### Rental-backed security
+In the corporate, single-family home rental industry, it’s future rent revenue that brings value, with home deeds offered as collateral.
 
-#### dataframe
-Sometimes abbreviated "df," a dataframe is R parlance for a dataset of vectors stored a list.
+#### Foreclosure
+When a lender moves to collect money owned on a loan that a borrower fails to pay off. That can include seizing a mortgaged property and selling it to collect some value. 
 
-#### factor
-A type of variable in a dataframe that interprets character strings into ordered numerical categories.
+#### Institutional investors
+Organizations, including companies, that invest money on behalf of others. That can include hedge funds, endowments, mutual funds and others.
 
-#### execute
-Command your script to run a line of your code. Shortcut: <kbd>CMD/CTRL</kbd> + <kbd>Enter</kbd>
+#### Corporate landlords
+For-profit organizations with diverse structures that buy or manage portfolios of single-family homes that they put on the market as rentals. Observers of the growing single-family home rental business sometimes use the term institutional investors and corporate landlords interchangeably.
 
-#### list
-A set of objects that can contain things like variables or dataframes.
-
-#### package
-An enhancements to R that adds additional functionality to your workspace.
-
-#### pipe
-The sequence of characters `%>%` used to chain together different functions for more complex operations. Shortcut: <kbd>CMD/CTRL<kbd/> + <kbd>Shift</kbd> + <kbd>M</kbd>
-
-#### script
-A file with the suffix ".R" where you write your R code.
-
-#### string
-A sequence of characters not interpreted as a numeric variable.
-
-#### type
-Definition for your variable that describes its format. For example: numeric or character.
-
-#### vector
-A variable.
-
-#### workspace
-The area in your computer's memory where you'll be working, and where are your data, functions, packages, etc. are loaded.
+*SOURCES: Investopedia.com; office of US Rep. Mark Takano, D-Calif.; Urban Democracy Lab; New York University*
