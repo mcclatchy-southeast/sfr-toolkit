@@ -36,9 +36,38 @@ This site is divided up into two broad sections: **tutorials** and **resources**
 
 ## What you'll need
 
+Before you get started, make sure you have the data and software/online accounts that can help you discover the scale of corporate homeownership in your community.
+
+### Data and documents
+
+#### Essential 
+- **Property record data** Data on property ownership may be maintained on the county level, depending on your state. If it's not readily accessible your county website or GIS portal online, try requesting it from your local register of deeds or tax administration department.
+
+- **Property sales/transaction data** Depending on the jurisdiction, data of property sales (like sale price and date) may be stored separately from data detailing the current owner of a parcel or property. You'll need this data if you plan to evaluate how many transactions involve a corporate landlord over a certain period of time. Even if property record data contains information on a home's sale price and date, if it sold multiple times over the time period you're studying (if was bought and flipped, for example), you'll miss every transaction before the most recent one.
+
+#### Optional
+ 
+ - **Rental property/landlord registrations** Some jurisdictions may require landlords of certain sizes to register basic information, like contact details, addresses or unit counts, for the purposes of public safety or code enforcement (North Carolina, by contrast, forbids municipalities from collecting this information). Check to see if you can request this data, which might allow you to quickly identify large landlords.
+
+ - **Consumer complaints** States with consumer protection divisions (often housed within the office of the state attorney general), should be able to provide copies of complaints filed against corporate landlords. You'll probably have to submit a public records request for these documents for a specific list of companies over a specific time period. The records will provide the names of renters and, often, documentation of problems those renters have experienced.
+
+### Technology
+
+#### For beginning users
+- **Google/Google Sheets** *(free)* If you have a personal Google account, or one through your newsroom's corporate/enterprise account, you can use [Google Sheets](http://sheet.new/) for free. Sheets replicates much of the functionality of Microsoft Excel (without the pricey subscription fee), but may be sluggish or glitchy when the data gets too large.
+
+*OR*
+
+- **Microsoft Excel** *($69.99/year)* Still largely the standard for spreadsheet work, Excel is more robust than Google Sheets, although the functionality is largely similar. It can handle bigger datasets (which may come in handy for large property record databases), and also allows you to keep data on your local machine without the need for a constant internet connection.
+
+#### For intermediate/advanced users
+- **R (free)** A statistical programming language that is quickly becoming one of the standard tools for data journalists around the world.
+
+- **RStudio (free)** A popular integrated development environment (IDE) that essentially functions as a user interface for the R language itself. 
+
 
 ## Contributors
-This site was primarily written and designed by News & Observer investigative reporter Tyler Dukes, with extensive contributions from Charlotte Observer investigative reporter Payton Guion and Observer growth reporter Gordon Rago and McClatchy Southeast investigations editor Cathy Clabby.
+This site was primarily written and designed by News & Observer investigative reporter Tyler Dukes, with extensive contribution and editing from Charlotte Observer investigative reporter Payton Guion and Observer growth reporter Gordon Rago and McClatchy Southeast investigations editor Cathy Clabby.
 
 Photos by Julia Wall, photographer at The News & Observer.
 
