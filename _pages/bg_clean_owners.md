@@ -1,5 +1,3 @@
-
-
 ---
 layout: page
 title: Clean up property owner names
