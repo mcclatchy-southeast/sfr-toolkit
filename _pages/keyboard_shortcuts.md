@@ -27,3 +27,7 @@ Highlight one or multiple lines of code and use this shortcut to comment them al
 
 When using the `tidyverse` library. Input the character sequence `%>%`, used to chain together different functions for more complex operations.
 
+### Insert a section label
+<kbd>Command</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>
+
+Prompt the user for a new section label, then insert the label at the cursor. Section labels show up in the document outline.
