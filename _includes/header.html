@@ -16,18 +16,23 @@
           <!-- NOTE: newer versions of boostrap use data-bs-toggle instead of data-toggle -->
           <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Tutorials</a>
           <div class="dropdown-menu">
-            <a class="dropdown-item" href="{{ site.baseurl }}/_pages/00-setting-up.html">Beginner</a>
-            <a class="dropdown-item" href="{{ site.baseurl }}/_pages/01-intro-to-tidyverse.html">Intermediate</a>
-            <a class="dropdown-item" href="{{ site.baseurl }}/_pages/02-data-viz.html">Advanced</a>
-            <!--<div class="dropdown-divider"></div>-->
+            <a class="dropdown-item disabled" >Beginner</a>
+            <a class="dropdown-item" href="{{ site.baseurl }}/_pages/bg_setting_up_r.html">Setting up</a>
+            <a class="dropdown-item" href="{{ site.baseurl }}/_pages/bg_clean_owners.html">Clean owner names</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item disabled" >Intermediate</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item disabled" >Advanced</a>
           </div>
         </li>
         <li class="nav-item dropdown">
           <!-- NOTE: newer versions of boostrap use data-bs-toggle instead of data-toggle -->
           <a class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources</a>
           <div class="dropdown-menu">
-            <a class="dropdown-item" href="{{ site.baseurl }}/_pages/reading_list.html">Reading list</a>
-            <a class="dropdown-item" href="{{ site.baseurl }}/_pages/glossary.html">Glossary</a>
+            <a class="dropdown-item" href="{{ site.baseurl }}/_pages/keyboard_shortcuts.html">R shortcuts</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="{{ site.baseurl }}/_pages/reading_list.html">SFR reading list</a>
+            <a class="dropdown-item" href="{{ site.baseurl }}/_pages/glossary.html">SFR glossary</a>
           </div>
         </li>
         {%- for path in page_paths -%}

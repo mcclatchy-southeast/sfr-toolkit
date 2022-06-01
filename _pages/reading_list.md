@@ -3,8 +3,6 @@ layout: page
 title: Reading list
 ---
 
-## Reading list
-
 Intro here.
 
 ### Journalism

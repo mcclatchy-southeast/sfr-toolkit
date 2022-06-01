@@ -19,7 +19,9 @@ Have questions or suggestions? Contact [N&O investigative reporter Tyler Dukes](
 
 We've designed this toolkit for local and national journalists at a variety of skill levels who are interested in probing the extent of corporate homeownership in their cities, regions and states.
 
-Some experience working with data will be helpful, but we've also put together entry-level tutorials using basic spreadsheet functions (usable in Google Sheets or Excel). More advanced users may prefer tutorials using R, a statistical programming language.
+Some experience working with data – and specifically the R statistical programming language – will be helpful, but we've also put together entry-level tutorials for people brand new to R.
+
+We're using R here because most property record databases are a bit too large for common spreadsheet tools like Google Sheets, and can even cause Excel to move too slowly. 
 
 Our overarching goal is to make this guide as accessible as possible, so if you get stuck, let us know. We're continuing to improve the content here to make it easier to use.
 
@@ -28,11 +30,9 @@ Although this toolkit is geared toward journalists, its use isn't limited to new
 ## How to use this toolkit
 This site is divided up into two broad sections: **tutorials** and **resources**.
 
-**Resources** contain the background materials, like readings lists and glossaries, that can help add context to your reporting and understanding of corporate homeownership.
+**Resources** contain background materials, like readings lists and glossaries, that can help add context to your reporting and understanding of corporate homeownership.
 
 **Tutorials**, organized by **beginner**, **intermediate** and **advanced**, provide technical walkthroughs for different aspects of the project, like how to match the names of the various holding companies to their parent companies.
-
-**Beginner** tutorials are largely written for Excel and Google Sheets users, while **intermediate** and **advanced** tutorials are written for R users.
 
 ## What you'll need
 
@@ -53,18 +53,9 @@ Before you get started, make sure you have the data and software/online accounts
 
 ### Technology
 
-#### For beginning users
-- **Google/Google Sheets** *(free)* If you have a personal Google account, or one through your newsroom's corporate/enterprise account, you can use [Google Sheets](http://sheet.new/) for free. Sheets replicates much of the functionality of Microsoft Excel (without the pricey subscription fee), but may be sluggish or glitchy when the data gets too large.
+- **R** *(free)* A statistical programming language that is quickly becoming one of the standard tools for data journalists around the world.
 
-*OR*
-
-- **Microsoft Excel** *($69.99/year)* Still largely the standard for spreadsheet work, Excel is more robust than Google Sheets, although the functionality is largely similar. It can handle bigger datasets (which may come in handy for large property record databases), and also allows you to keep data on your local machine without the need for a constant internet connection.
-
-#### For intermediate/advanced users
-- **R (free)** A statistical programming language that is quickly becoming one of the standard tools for data journalists around the world.
-
-- **RStudio (free)** A popular integrated development environment (IDE) that essentially functions as a user interface for the R language itself. 
-
+- **RStudio** *(free)* A popular integrated development environment (IDE) that essentially functions as a user interface for the R language itself. 
 
 ## Contributors
 This site was primarily written and designed by News & Observer investigative reporter Tyler Dukes, with extensive contribution and editing from Charlotte Observer investigative reporter Payton Guion and Observer growth reporter Gordon Rago and McClatchy Southeast investigations editor Cathy Clabby.
