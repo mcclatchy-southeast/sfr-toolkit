@@ -39,7 +39,7 @@ Then start a new R script by clicking `File` > `New File` > `R Script` and click
 
 If everything is where it's supposed to be, you'll notice your Files pane should include your script, your R project and the data files you stored in your directory. Check to make sure everything's here.
 
-![A working directory in R Studio with the data files appropriately placed.](/assets/images/working_directory.png)
+![A working directory in R Studio with the data files appropriately placed.]({{ site.baseurl }}/assets/images/working_directory.png)
 
 At the top of your script, write a quick comment that tells you something about what your new script does. Starting each line with a `#` character will ensure this line is not executed when you run your code.
 
@@ -53,7 +53,7 @@ For organizational purposes, create a section label with the keyboard shortcut <
 
 Use them whenever it makes sense as you organize your code.
 
-![Creating a section label](/assets/images/section_label.gif)
+![Creating a section label]({{ site.baseurl }}/assets/images/section_label.gif)
 
 Here, we'll do some initial setup, like loading up our packages into our workspace if they're already installed.
 
@@ -535,7 +535,7 @@ wake_properties_clean <- wake_properties %>%
 
 You should see a few lines of output in your console as the function runs. Depending on the size of your data, it may take a few minutes.
 
-![Executing the owner name cleaning function.](/assets/images/clean_owners.gif)
+![Executing the owner name cleaning function.]({{ site.baseurl }}/assets/images/clean_owners.gif)
 
 You should now see your new, cleaned dataframe in your Environment pane.
 
