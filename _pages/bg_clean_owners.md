@@ -2,6 +2,10 @@
 layout: page
 title: Clean up property owner names
 ---
+
+![A house for lease in Southern Chase in Concord, N.C., on Tuesday, April 26, 2022. // Khadejeh Nikoyeh]({{ site.baseurl }}/assets/images/CLT_southernchase_02.JPG)
+*A house for lease in Southern Chase in Concord, N.C., April 26, 2022. // Khadejeh Nikoyeh, The Charlotte Observer*
+
 One of the files resulting from The Charlotte Observer and The News & Observer's investigation is a "lookup table" – basically just a spreadsheet that can help us match the hundreds of subsidiaries and holding companies big corporate landlords use to buy and manage property with their respective parent firms.
 
 These holding companies can sometimes be distinct entities, or they can just be mistyped into the property record system.

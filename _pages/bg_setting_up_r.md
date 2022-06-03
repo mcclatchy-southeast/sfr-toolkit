@@ -3,6 +3,9 @@ layout: page
 title: Setting up R
 ---
 
+![A subdivision in the Crandon Drive and Peachwood Drive area in Charlotte, N.C. // Jeff Siner]({{ site.baseurl }}/assets/images/CLT_WALL_STREET_HOMES_01.JPG)
+*A subdivision in the Crandon Drive and Peachwood Drive area in Charlotte, N.C. // Jeff Siner, The Charlotte Observer*
+
 The statistical programming language R is quickly becoming one of the standard tools for data journalists around the world.
 
 In this walkthrough, you'll learn how to:

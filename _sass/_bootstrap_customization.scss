@@ -102,3 +102,13 @@ img {
 table {
   margin-bottom: 10px;
 }
+
+img + em {
+  font-weight: 300;
+  margin: 0px 0 10px 0;
+  color: #777;
+  font-size: 85%;
+  font-style: normal;
+  text-transform: uppercase;
+  line-height: 1;
+}
