@@ -33,7 +33,7 @@ This site is divided up into two broad sections: **tutorials** and **resources**
 
 **Resources** contain background materials, like readings lists and glossaries, that can help add context to your reporting and understanding of corporate homeownership.
 
-**Tutorials**, organized by **beginner**, **intermediate** and **advanced**, provide technical walkthroughs for different aspects of the project, like how to match the names of the various holding companies to their parent companies.
+**Tutorials**, provide technical walkthroughs for different aspects of the project, like how to match the names of the various holding companies to their parent companies.
 
 ## What you'll need
 
