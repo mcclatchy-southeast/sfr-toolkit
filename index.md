@@ -65,4 +65,4 @@ Photos by Julia Wall, Jeff Siner and Khadejeh Nikoyeh.
 
 Special thanks to the Pulizer Center for its generous support of this work.
 
-Want to contribute to our toolkit? [See our contributions guide here](https://github.com/mcclatchy-southeast/sfr-toolkit/blob/main/CONTRIBUTING.md).
+Want to contribute to our toolkit? Want to share what you found? Contact [N&O investigative reporter Tyler Dukes](mailto:mtdukes@newsobserver.com).
