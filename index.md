@@ -20,7 +20,7 @@ Have questions or suggestions? Contact [N&O investigative reporter Tyler Dukes](
 
 We've designed this toolkit for local and national journalists at a variety of skill levels who are interested in probing the extent of corporate homeownership in their cities, regions and states.
 
-Some experience working with data – and specifically the R statistical programming language – will be helpful, but we've also put together entry-level tutorials for people brand new to R.
+Some experience working with data – and specifically the R statistical programming language – will be helpful, but we've made our tutorials cover some entry-level concepts for people brand new to R.
 
 We're using R here because most property record databases are a bit too large for common spreadsheet tools like Google Sheets, and can even cause Excel to move too slowly. 
 
@@ -35,22 +35,24 @@ This site is divided up into two broad sections: **tutorials** and **resources**
 
 **Tutorials**, provide technical walkthroughs for different aspects of the project, like how to match the names of the various holding companies to their parent companies.
 
+We'll add to these sections over time, and if there's something you want to see, let us know.
+
 ## What you'll need
 
-Before you get started, make sure you have the data and software/online accounts that can help you discover the scale of corporate homeownership in your community.
+Before you get started, make sure you have the data and software that can help you discover the scale of corporate homeownership in your community.
 
 ### Data and documents
 
 #### Essential 
 - **Property record data** Data on property ownership may be maintained on the county level, depending on your state. If it's not readily accessible your county website or GIS portal online, try requesting it from your local register of deeds or tax administration department.
 
-- **Property sales/transaction data** Depending on the jurisdiction, data of property sales (like sale price and date) may be stored separately from data detailing the current owner of a parcel or property. You'll need this data if you plan to evaluate how many transactions involve a corporate landlord over a certain period of time. Even if property record data contains information on a home's sale price and date, if it sold multiple times over the time period you're studying (if was bought and flipped, for example), you'll miss every transaction before the most recent one.
-
 #### Optional
- 
- - **Rental property/landlord registrations** Some jurisdictions may require landlords of certain sizes to register basic information, like contact details, addresses or unit counts, for the purposes of public safety or code enforcement (North Carolina, by contrast, forbids municipalities from collecting this information). Check to see if you can request this data, which might allow you to quickly identify large landlords.
 
- - **Consumer complaints** States with consumer protection divisions (often housed within the office of the state attorney general), should be able to provide copies of complaints filed against corporate landlords. You'll probably have to submit a public records request for these documents for a specific list of companies over a specific time period. The records will provide the names of renters and, often, documentation of problems those renters have experienced.
+- **Property sales/transaction data** Depending on the jurisdiction, data on property sales (like sale price and date) may be stored separately from data detailing the current owner of a parcel or property. You'll need this data if you plan to evaluate how many transactions involve a corporate landlord over a certain period of time. Even if property record data contains information on a home's sale price and date, if it sold multiple times over the time period you're studying (if was bought and flipped, for example), you'll miss every transaction before the most recent one.
+ 
+- **Rental property/landlord registrations** Some jurisdictions may require landlords of certain sizes to register basic information, like contact details, addresses or unit counts, for the purposes of public safety or code enforcement (North Carolina, by contrast, forbids municipalities from collecting this information). Check to see if you can request this data, which might allow you to quickly identify large landlords.
+
+- **Consumer complaints** States with consumer protection divisions (often housed within the office of the state attorney general), should be able to provide copies of complaints filed against corporate landlords. You'll probably have to submit a public records request for these documents for a specific list of companies over a specific time period. The records will provide the names of renters and, often, documentation of problems those renters have experienced.
 
 ### Technology
 

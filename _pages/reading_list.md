@@ -3,7 +3,7 @@ layout: page
 title: Reading list
 ---
 
-Intro here.
+A collection of reporting and reference documents that can help provide context on single-family rental companies.
 
 ### Journalism
 
@@ -28,6 +28,9 @@ Elora Raymond et al. // Federal Reserve Bank of Atlanta // December 2016
 
 **[Wall Street-backed landlords now own more than 11,000 single-family homes in Charlotte](https://ui.charlotte.edu/story/wall-street-backed-landlords-now-own-more-11000-single-family-homes-charlotte)**  
 Ely Portillo & Justin Lane // UNC Charlotte Urban Institute // June 9, 2021
+
+**[U.S. Single-Family Rental: 2020 Institutional Activity]({{ site.baseurl }}/assets/documents/CLT_southernchase_02.JPG2020-SFR-Institutional-Acitvity.pdf)**
+Sandeep Bordia et al. // Amherst Residential // March 2021
 
 **[The financialization of single-family rental housing: An examination of real estate investment trusts’ ownership of single-family houses in the Atlanta metropolitan area](https://www.tandfonline.com/doi/abs/10.1080/07352166.2019.1662728)**  
 Suzanne Lanyi Charles // *Journal of Urban Affairs* // Oct. 11, 2019
