@@ -6,7 +6,7 @@ title: Single-family rental industry reporting toolkit
 ![A "For Rent" sign sits in the yard of a Raleigh home owned by Tricon Residential in early 2022. // Julia Wall](/assets/images/tricon_flag_jmw.JPG)
 *A "For Rent" sign sits in the yard of a Raleigh home owned by Tricon Residential in early 2022. // Julia Wall, The News & Observer*
 
-###### LAST UPDATED: June 3, 2022
+###### LAST UPDATED: June 6, 2022
 
 In May 2022, reporters from The Charlotte Observer and The News & Observer [published a series of stories](https://www.charlotteobserver.com/topics/security_for_sale) highlighting the rise of the single-family home rental industry in North Carolina.
 
@@ -20,9 +20,9 @@ Have questions or suggestions? Contact [N&O investigative reporter Tyler Dukes](
 
 We've designed this toolkit for local and national journalists at a variety of skill levels who are interested in probing the extent of corporate homeownership in their cities, regions and states.
 
-Some experience working with data – and specifically the R statistical programming language – will be helpful, but we've made our tutorials cover some entry-level concepts for people brand new to R.
+Some experience working with data – and specifically the R statistical programming language – will be helpful, but we've written our tutorials to cover some entry-level concepts for people brand new to R.
 
-We're using R here because most property record databases are a bit too large for common spreadsheet tools like Google Sheets, and can even cause Excel to move too slowly. 
+Why R? Because most property record databases are a bit too large for common spreadsheet tools like Google Sheets, and can even cause Excel to move too slowly.
 
 Our overarching goal is to make this guide as accessible as possible, so if you get stuck, let us know. We're continuing to improve the content here to make it easier to use.
 
@@ -48,17 +48,19 @@ Before you get started, make sure you have the data and software that can help y
 
 #### Optional
 
-- **Property sales/transaction data** Depending on the jurisdiction, data on property sales (like sale price and date) may be stored separately from data detailing the current owner of a parcel or property. You'll need this data if you plan to evaluate how many transactions involve a corporate landlord over a certain period of time. Even if property record data contains information on a home's sale price and date, if it sold multiple times over the time period you're studying (if was bought and flipped, for example), you'll miss every transaction before the most recent one.
+- **Property sales/transaction data** Depending on the jurisdiction, data on property sales (like sale price and date) may be stored separately from data detailing the current owner of a parcel or property. You'll need this data if you plan to evaluate how many transactions involve a corporate landlord over a certain period of time. Even if property record data contains information on a home's sale price and date, if it sold multiple times over the time period you're studying (if the home was bought and flipped, for example), you'll miss every transaction before the most recent one.
  
 - **Rental property/landlord registrations** Some jurisdictions may require landlords of certain sizes to register basic information, like contact details, addresses or unit counts, for the purposes of public safety or code enforcement (North Carolina, by contrast, forbids municipalities from collecting this information). Check to see if you can request this data, which might allow you to quickly identify large landlords.
 
 - **Consumer complaints** States with consumer protection divisions (often housed within the office of the state attorney general), should be able to provide copies of complaints filed against corporate landlords. You'll probably have to submit a public records request for these documents for a specific list of companies over a specific time period. The records will provide the names of renters and, often, documentation of problems those renters have experienced.
 
+- **Corporation registration database** Most states have an agency responsible for registering corporate entities doing business within state borders, and they track those registrations in a corporation database. In North Carolina, for example, this database is maintained by the [Office of the Secretary of State](https://www.sosnc.gov/online_services/search/by_title/_Business_Registration). These records can be incredibly valuable for verifying the links between companies and their subsidiaries. The amount of information available publicly depends on the state, but you should be able to submit a public records request for the entire database. [Another option is to use OpenCorporates](https://opencorporates.com/), a nonprofit that tracks business registrations across the country and makes its data available via an API.
+
 ### Technology
 
 - **R** *(free)* A statistical programming language that is quickly becoming one of the standard tools for data journalists around the world.
 
-- **RStudio** *(free)* A popular integrated development environment (IDE) that essentially functions as a user interface for the R language itself. 
+- **RStudio** *(free)* A popular integrated development environment (IDE) that essentially functions as a user interface for the R language itself.
 
 ## Contributors
 This site was primarily written and designed by News & Observer investigative reporter Tyler Dukes, with extensive contribution and editing from Charlotte Observer investigative reporter Payton Guion and Observer growth reporter Gordon Rago and McClatchy Southeast investigations editor Cathy Clabby.
