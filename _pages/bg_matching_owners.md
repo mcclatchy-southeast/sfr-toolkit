@@ -11,7 +11,10 @@ You've got your R project set up. You've cleaned your property owner names. And 
 Now it's time to use what you've created so far to look for corporate ownership by matching the names in our property record database with the names in our lookup table using a **join**.
 
 In this walkthrough, you'll learn how to:
- - Join to datasets in R.
+- Join two datasets in R
+- Filter, group and count using the tidyverse
+- Avoid common property record pitfalls
+- Export data
  
 <div class="alert alert-warning"><b>NOTE:</b> Don't forget about verification. Matches made with the techniques in this walkthrough – especially if you're using a lookup table customized for your state or cities – indicate a <i>likely</i> link to the corporate parents we're focusing on here. You'll need to confirm the relationship between subsidiary and parent in your own state, which may have very different companies than those we found in operation in North Carolina.</div>
 

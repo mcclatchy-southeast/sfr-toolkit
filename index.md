@@ -6,7 +6,7 @@ title: Single-family rental industry reporting toolkit
 ![A "For Rent" sign sits in the yard of a Raleigh home owned by Tricon Residential in early 2022. // Julia Wall](/assets/images/tricon_flag_jmw.JPG)
 *A "For Rent" sign sits in the yard of a Raleigh home owned by Tricon Residential in early 2022. // Julia Wall, The News & Observer*
 
-###### LAST UPDATED: June 6, 2022
+###### LAST UPDATED: June 9, 2022
 
 In May 2022, reporters from The Charlotte Observer and The News & Observer [published a series of stories](https://www.charlotteobserver.com/topics/security_for_sale) highlighting the rise of the single-family home rental industry in North Carolina.
 
@@ -33,7 +33,7 @@ This site is divided up into two broad sections: **tutorials** and **resources**
 
 **Resources** contain background materials, like readings lists and glossaries, that can help add context to your reporting and understanding of corporate homeownership.
 
-**Tutorials**, provide technical walkthroughs for different aspects of the project, like how to match the names of the various holding companies to their parent companies.
+**Tutorials** provide technical walkthroughs for different aspects of the project, like how to match the names of the various holding companies to their parent companies.
 
 We'll add to these sections over time, and if there's something you want to see, let us know.
 

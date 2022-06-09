@@ -16,7 +16,7 @@ In this walkthrough, you'll learn how to:
 
 ## Installing software
 
-There's a variety of ways to work with R, which is the actual programming __language__. We'll also use RStudio, a popular integrated development environment (IDE) that essentially functions as a user interface for the R language itself.
+There's a variety of ways to work with R, which is the actual programming **language**. We'll also use RStudio, a popular integrated development environment (IDE) that essentially functions as a **user interface** for the R language itself.
 
 ### Step 1: Install R
 
@@ -85,7 +85,9 @@ Code is executed line by line. Place your cursor on a line, then execute the lin
 100 * 200
 ```
 
-You can also store variables using an assignment function. The most basic variable types are **characters**, **numerics**, **dates** and **logicals**. There are a few more.
+You can also store variables using an assignment function (`<-`). You can quickly insert these symbols with the keyboard shortcut <kbd>OPTION</kbd> + <kbd> - </kbd>.
+
+The most basic variable types are **characters**, **numerics**, **dates** and **logicals**.
 
 ```R
 #store a numeric variable
@@ -107,14 +109,14 @@ R has a lot of great, basic functionality built in. But an entire community of R
 
 We'll harness some of those packages in our work analyzing the single-family rental industry.
 
-One of the most popular packages is the [`tidyverse`](https://www.tidyverse.org/), a collection of packages designed for data science. Let's install a few of those packages.
+One of the most popular packages is the [`tidyverse`](https://www.tidyverse.org/), a collection of utilties designed for data science. Let's install a few of those packages.
 
 Loading a package is a two-step process:
 
  1. Install the package.
  2. Load the package into your R workspace.
 
-Installing is only necessary the first time you use a package. From then on, you'll need to load the the package into your workspace only when you restart your project.
+**Installing** is only necessary the first time you use a package. From then on, you'll need to **load** the the package into your workspace only when you restart your project.
 
 Execute each line of code by clicking "Run" or with <kbd>CMD</kbd> + <kbd>Enter</kbd>.
 
